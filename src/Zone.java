@@ -1,4 +1,3 @@
-package Fawry.JavaCollections;
 
 public class Zone {
     public String name;
